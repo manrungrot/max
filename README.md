@@ -1,10 +1,10 @@
-# SELFBOT-BY:MAX
+# SELFBOT-BY:MAN
 1. apt update
 2. apt upgrade
 3. pkg install python3
 4. pkg install pip3
 5. pkg install git
-6. git clone https://github.com/0954517662/MAX0.git
+6. git clone https://github.com/man
 7. pkg install nano
 8. pip3 install rsa
 9. pip3 install thrift==0.11.0
@@ -17,12 +17,5 @@
 16. pip3 install antolib
 17. pip3 install linepy
 18. pip3 install akad
-19. cd MAX0.py
-20. python3 ninemax.py
-
-# เชลบอทคนที่อยู่ดาวอังคาร กูไปปล้นมา
-# กว่าจะปล้นมาได้นานมาก ^_^
-
-# ADD ME
-http://line.me/ti/p/%40spm7024h
-# THANKs
+19. cd sex.py
+20. python3 man.py
